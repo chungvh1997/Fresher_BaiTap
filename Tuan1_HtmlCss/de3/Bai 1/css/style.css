@@ -90,6 +90,10 @@ li:before {
   float: left;
   margin-right: 14px;
 }
+.box-img { 
+  text-align: center;
+  padding-bottom: 20px;
+}
 span.white { color:#fff; }
 .inner-profile > .subtitle,
 .inner-profile > .subtitle + div { padding-bottom: 5px; }
