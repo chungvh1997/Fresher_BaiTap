@@ -8,16 +8,16 @@
   border: 1px solid #0033FF;
   margin: auto;
 }
-h4.subtitle{
+h4.subtitle {
   height: 25px;
   background-image: url("../images/title_bg.gif");
   background-repeat: repeat-x;  
   line-height: 25px;
 }
-.player-profile{
+.player-profile {
   height: 100px;
 }
-.player-profile img{
+.player-profile img {
   width: 100px;
   height: 90px;
   float: left;
@@ -55,7 +55,7 @@ h4.subtitle{
   border-radius: 5px;
   position: relative;
 }
-.inner-post:after{
+.inner-post:after {
   content: "";
   position: absolute;
   top: 100%;
@@ -90,7 +90,8 @@ form div {
   display: flex;
   align-items: center;
 }
-input[type="text"], input[type="email"] {
+input[type="text"], 
+input[type="email"] {
   width: 130px;
   height: 18px;
 }
