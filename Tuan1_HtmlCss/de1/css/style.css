@@ -74,6 +74,25 @@ h4.subtitle{
 }
 .comment {
   padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+h4.title-comment {
+  text-align: center;
+}
+p.subtitle {
+  width:120px;
+  float: left;
+}
+form div {
+  clear: both;
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+}
+input[type="text"], input[type="email"] {
+  width: 130px;
+  height: 18px;
 }
 
 
